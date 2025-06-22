@@ -58,19 +58,9 @@ Start the server
 ```
 
 
-## Screenshots
-
-![App Screenshot](https://i.ibb.co/27BS9jj/image.png)
-
-![image](https://github.com/user-attachments/assets/2de5ba0a-17e1-4f18-94e3-7ab83093af2b)
-
-
-![App Screenshot](https://i.ibb.co/gDKRtcz/image.png)
-
-![App Screenshot](https://i.ibb.co/FmpdPJN/image.png)
 
 
 ## Demo ( Hosted on Vercel )
 
 
-https://blog-website-swart-six.vercel.app/
+https://arjunsh4rm4blogwebsite.vercel.app/
