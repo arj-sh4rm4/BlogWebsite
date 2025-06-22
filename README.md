@@ -36,7 +36,7 @@ Deployment:
 Clone the project
 
 ```bash
-  git clone https://github.com/sahil-dll/Medium-clone/tree/main
+  git clone https://github.com/arj-sh4rm4/BlogWebsite/tree/main
 ```
 
 Go to the project directory
